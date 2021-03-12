@@ -10,6 +10,7 @@ metadata:
     backstage.io/source-ref: "https://github.com/my-very-private-org/my-golang-app3"
     backstage.io/techdocs-ref: url:https://github.com/my-very-private-org/my-golang-app3
     backstage.io/github-actions-id: https://github.com/my-very-private-org/my-golang-app3
+    backstage.io/kubernetes-id: my-golang-app3
 spec:
   type: service
   lifecycle: experimental
