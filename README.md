@@ -16,3 +16,5 @@ $ ./bin/my-golang-app3
 ### Testing
 
 `make test`
+
+### Foo
